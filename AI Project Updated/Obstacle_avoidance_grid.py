@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec  6 18:19:14 2020
-
-@author: 17207
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Nov  3 16:15:34 2020
 
 @author: karan
